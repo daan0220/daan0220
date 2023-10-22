@@ -28,7 +28,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,golang,ruby,java" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,golang,ruby,rails,java" /> <br /><br />
 
 ## Frameworks and Library
 
