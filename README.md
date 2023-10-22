@@ -1,5 +1,14 @@
 # Hi there 👋
 
+1. I'm a web frontend and backend developer from Japan
+
+2. I was studying abroad in Germany
+
+3. My favorites are React, TypeScript, Go, Java, Ruby
+
+4. You can find my Zenn Blog [here](https://zenn.dev/daan0220)
+
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daan0220&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=daan0220&theme=onedark&show_icons=ture" />
@@ -7,17 +16,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daan0220&theme=onedark&column=7)](https://github.com/daan0220/github-profile-trophy)
 
-<!--
-**daan0220/daan0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+
+
