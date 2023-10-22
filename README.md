@@ -14,16 +14,17 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=daan0220&theme=onedark&show_icons=ture" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daan0220&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daan0220&theme=onedark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daan0220&theme=default)
+<p align="left">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daan0220&theme=onedark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daan0220&theme=onedark">
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daan0220&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daan0220&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daan0220&theme=default&utcOffset=8)
-
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daan0220&theme=onedark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daan0220&theme=onedark&utcOffset=8"/>
+</p>
 
 ## Programming Languages
 
