@@ -1,4 +1,4 @@
-# 今日も最高の1日にしよう🔥🔥🔥
+# 🔥Let's make today another great day🔥
 
 1. I'm a web frontend and backend developer from Japan
 
