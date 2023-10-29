@@ -1,4 +1,4 @@
-# Hi there 👋
+# 今日も最高の1日にしよう🔥🔥🔥
 
 1. I'm a web frontend and backend developer from Japan
 
