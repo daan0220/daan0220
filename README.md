@@ -36,6 +36,6 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql,docker,git,github,vscode,linux,aws,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql,docker,git,github,vscode,linux,aws,figma,nginx,deno" /> <br /><br />
 
 
